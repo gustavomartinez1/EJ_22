@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EJ_22</string>
+    <string name="texto1">Desarrollo de aplicaciones para dispositivos móviles</string>
+    <string name="texto2">Gustavo Martinez Montes</string>
+    <string name="descripcion_imagen">Ilustración de una persona usando una aplicación móvil</string>
+</resources>
